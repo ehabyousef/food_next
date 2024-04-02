@@ -1,0 +1,6 @@
+.active {
+  background-color: var(--beige);
+  color: var(--dark);
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 6px;
+}

@@ -1,0 +1,77 @@
+#cherry {
+  background-color: var(--beige);
+  color: var(--dark);
+  width: fit-content;
+  opacity: 0.5;
+}
+#headtext {
+  font-size: 3.5rem;
+}
+.heroImg {
+  width: 35rem !important;
+  height: 35rem !important  ;
+}
+.btn {
+  width: max-content;
+  background-color: var(--red);
+  color: var(--white);
+  border: none;
+  border-radius: 20px;
+  padding: 1rem 2rem;
+  font-size: 1.1rem;
+  cursor: pointer;
+  box-shadow: inset -2px -3px 5px #5a1717;
+}
+
+.contact {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  top: 10%;
+  left: 0;
+  background-color: var(--white);
+  color: var(--dark);
+  padding: 1rem 2rem;
+  box-shadow: 3px 3px 2px var(--beige);
+  border-radius: 20px;
+  color: var(--red);
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.contact:hover {
+  scale: 1.1;
+}
+.contact > div {
+  background-color: var(--green);
+  color: var(--dark);
+  width: 2.5rem;
+  height: 2.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  color: var(--white);
+  font-size: 1.3rem;
+}
+.pizzImg {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  gap: 1rem;
+  border-radius: 10px;
+  background-color: var(--white);
+  width: max-content;
+  padding: 0.6rem;
+  box-shadow: 3px 3px 2px var(--beige);
+  cursor: pointer;
+  transition: 0.3s;
+}
+.pizzImg:hover {
+  scale: 1.05;
+}
+.pizzImg img {
+  border-radius: 10px;
+}

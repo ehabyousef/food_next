@@ -1,0 +1,7 @@
+.icon {
+  color: var(--white);
+  transition: 0.3s;
+}
+.icon:hover {
+  scale: 1.1;
+}

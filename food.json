@@ -1,0 +1,156 @@
+{
+  "Data": [
+    {
+      "id": 1,
+      "qty": 1,
+      "Title": "Pizza Margherita",
+      "Priza": 21,
+      "image": "https://png2.cleanpng.com/sh/ee00368cb0937904cca4548793d37103/L0KzQYm3UsExN6V0fZH0aYP2gLBuTgNifaRmf9c2cHn9irK0jfFzb5lqitt9YT3rcb7plgJobaMye9N1enBxdX76ggV0aZhqReJyeorkPYboVBY6a5VrTqsDZEe7PoaBUsc2P2E4Sac6OEO0QoeAUcQ0OmUziNDw/kisspng-sausage-pizza-margherita-hamburger-calzone-sausage-pizza-5a7f9cdf698d78.5827570315183126714324.png",
+      "Type": "pizaa"
+    },
+    {
+      "id": 2,
+      "qty": 1,
+      "Title": "Pizza Hut",
+      "Priza": 8,
+      "image": "https://png2.cleanpng.com/sh/43ef14304f64b4fcdc0c9725820d6edc/L0KzQYm3UsA3N6d6iZH0aYP2gLBuTfNpcZRmf9G2c4T8fLa0kPl7gpIyeudvZnX3PcHskQBmepDzgZ9wYYLvebS0gwJmaZUyiNd5cHX1f7BwTgBqgqtmReJ3Zz33grL1kCBiepZzjJ9ybXHqdX68gcc6PZU4UNNsOHa0QHA3Usg5QWk4TqMAMUe8QIS4VsA4OGc9RuJ3Zx==/kisspng-chicago-style-pizza-buffet-pepperoni-garlic-bread-pepperoni-pizza-png-transparent-image-5a795d38ac8f10.0288983615179031607068.png",
+      "Type": "pizaa"
+    },
+    {
+      "id": 3,
+      "qty": 1,
+      "Title": "Pepperoni Pizza",
+      "Priza": 12,
+      "image": "https://png2.cleanpng.com/sh/27dd4c16809ccaafc892c8cab29d8224/L0KzQYm3U8E5N5VsfZH0aYP2gLBuTgBqgqtmRdt9YXzscbA0gCVqe5pzfZ9rdXbpcb32TgdqdpgyfAt7bz3zccT7gb1xcatBeZ95bnewhMPojwNxaaNqhuY2aX3kd7b6TcViaZYATaoBN3G8R7eCTsExQWM3T6Q7MUW1QYSCUMk5OmY1SqQ3cH7q/kisspng-pizza-italian-cuisine-buffalo-wing-gyro-pasta-pizza-png-transparent-images-5aae95867a97f9.1092272215213909825022.png",
+      "Type": "pizaa"
+    },
+    {
+      "id": 4,
+      "qty": 1,
+      "Title": "Pizza Mexico",
+      "Priza": 10,
+      "image": "https://png2.cleanpng.com/sh/c51ac50d9f1e6c0f56bbf1cc7513bbca/L0KzQYm3WMEyN5x3h5H0aYP2gLBuTf5maaF0hNt9YX6wgLrDmvEudpZmiNH1aYTkfn7qlfl0cZ9qRdt9YXzscbA0gCVqe5pzReJyeorkPbfskCQubV54gNH5cHnxd37wjL1ofaR5h59taT3zebL1j71lcV54hAR7ZX6wRbO9hvE1bWlme9ZrY0GxRoq4UcUzQGQ2TaU9MES2Q4eBV8A5NqFzf3==/kisspng-neapolitan-pizza-neapolitan-cuisine-italian-cuisin-pizza-fest-e-shopping-il-gusto-di-piano-di-sorren-5b6fa4e8acdbc1.691152831534043368708.png",
+      "Type": "pizaa"
+    },
+    {
+      "id": 5,
+      "qty": 1,
+      "Title": "mushrooms Pizza",
+      "Priza": 29,
+      "image": "https://img.freepik.com/free-photo/fresh-pizza-with-mushrooms-ham-cheese-white-background-copy-space-homemade-with-love-fast-delivery-recipe-menu-top-view_639032-297.jpg?w=826&t=st=1703636794~exp=1703637394~hmac=e2bda1142be03d4df1bd4543303bcd96a76e0fde87e0c7be18019c6f2294b298",
+      "Type": "pizaa"
+    },
+    {
+      "id": 6,
+      "qty": 1,
+      "Title": "classic Pizza",
+      "Priza": 12,
+      "image": "https://img.freepik.com/premium-photo/pizza-isolate-white-background-generative-ai_74760-2619.jpg?w=826",
+      "Type": "pizaa"
+    },
+    {
+      "id": 7,
+      "qty": 1,
+      "Title": "Hamburger",
+      "Priza": 20,
+      "image": "https://png2.cleanpng.com/sh/12346be7407d7bf15e976c1a62aebae0/L0KzQoS4UsE4N6RniZH9cnHxg8HokvVvfF5ted9rdYLqdcO0kvVidJp4jNtsLXnwcbjsTf9nNZIye9puZYPocsb5hBVzNahujNo2dHBzgLr1hCM3PWhqe6NuMEi5RLe4U74xOmcATKsAMUG6QIOBUMU6QGU6TaI6LoDxd1==/transparent-hamburger-realistic-image-of-a-cheeseburger-with-toppings657ec1e0864f13.0269495117028059845501.png",
+      "Type": "burger"
+    },
+    {
+      "id": 8,
+      "qty": 1,
+      "Title": "Juicy hamburger",
+      "Priza": 21,
+      "image": "https://png2.cleanpng.com/sh/c6261ef86041f3c993707d699e7904d8/L0KzQoS4UsE4N6NAjJH9cnHxg8HokvVvfF5ted9rdYLqdcO0iwVqa6oygNN2YoX1d7b5TgdqfJkye9puZYPoPbL1hL1kd59pgd9uboT2PbF1TfJ2dmc6T9dsMEG2dIftUBY1NmU7Tac8Mki2QYi3UsgxPWY3S6oDMEWxgLBu/transparent-hamburger-juicy-hamburger-with-cheese-and-condiments-on-bun657ec013d6f3f4.4655328317028055238805.png",
+      "Type": "burger"
+    },
+    {
+      "id": 9,
+      "qty": 1,
+      "Title": "toppings Hamburger",
+      "Priza": 25,
+      "image": "https://png2.cleanpng.com/sh/b1699c47411ace43ba30bee2ff5c0a2c/L0KzQoS4UsE4N5Zvg5H9cnHxg8HokvVvfF5ted9rdYLqdcO0iPFuaqZ3f9d7LYfshLm0lP9xeJpzfAU2aX6whMPojwNxaaNqhuY2cHzkhLa0if1ib5Y7TaluY0K0Sbe7UfEzPl88TKsEN0G4RYKAUMI5OGc1TKMEOUm8PsH1h5==/transparent-hamburger-hamburger-with-toppings-in-transparent-plate-image657ec219f41a26.7499715517028060419999.png",
+      "Type": "burger"
+    },
+    {
+      "id": 10,
+      "qty": 1,
+      "Title": "Big hamburger",
+      "Priza": 18,
+      "image": "https://png2.cleanpng.com/sh/194929f82e43c297288f5bec92e3ab13/L0KzQoS4UsE4N5lqjZH9cnHxg8HokvVvfF5ted9rdYLqdcO0gvloNZlmhdRAcnfogn7AigRpNZ1qjOZAY3WwhLF0ggRwbaQyedDtLXPrdbb6hcY2P5ZoS6NuOUSzc7K3TsQ4QGE7SaQ8MUezQom3VsMxOmc1TqY3cH7q/transparent-hamburger-big-hamburger-with-lettuce-tomatoes-and-cheese657ec31e940ca0.4780612317028063026064.png",
+      "Type": "burger"
+    },
+    {
+      "id": 11,
+      "qty": 1,
+      "Title": "Mappa hamburger",
+      "Priza": 33,
+      "image": "https://png2.cleanpng.com/sh/b982953a5b51ba68368ea63aff23be6e/L0KzQoS4UsE4N5xwfZH9cnHxg8HokvVvfF5ted9rdYLqdcO0iPFuaqZ3f9d7LYfshLm0gBhmbaRqRehuZ3fsdcS0gf5lNZR0htZybXXxhMS0jB4ueGc6T9dsMUW2dYWAVvQ0NmU3UKc7MUazQYi3UsgxPWk5S6s8NUixgLBu/transparent-hamburger-hamburger-with-cheese-veggies-and-condiments-on-p657ec153e476d3.4285216017028058439358.png",
+      "Type": "burger"
+    },
+    {
+      "id": 12,
+      "qty": 1,
+      "Title": "Chocolate Milk",
+      "Priza": 4,
+      "image": "https://png2.cleanpng.com/sh/d0a6ebd63124bbbd794b6b80e3013f2b/L0KzQYm3V8I5N6F6iZH0aYP2gLBuTfNieKF6e9VybnAwc7FthvVmNZZ4iORuc4PyPb7wjPsua5JrfZ9sb3bpdX70ifxsNWZnTdY5Yki6QIHrVcYxNmE2S6c6OUG8QYa6UsgzPGU6TaI5M0SxgLBu/kisspng-cappuccino-coffee-espresso-milk-cafe-coffe-milk-5b5d0b8700d560.0135191915328244550034.png",
+      "Type": "drink"
+    },
+    {
+      "id": 13,
+      "qty": 1,
+      "Title": "Coconut ",
+      "Priza": 7,
+      "image": "https://png2.cleanpng.com/sh/85980f87f015173cdc00eccddff0a8b4/L0KzQYm3VcE1N6d0iZH0aYP2gLBuTflkbZUye9HvZnXoPbT2gBt1aZpxRdVqZnWwdrrDmwkubKNuht18LUXkdoq9hPY3OpQATaIALke7QIW4UsQyOWY3TqQENkC4RIKBUsYveJ9s/kisspng-iced-coffee-cocktail-cafe-fizzy-drinks-5af96df62c9505.7804124115262960541826.png",
+      "Type": "drink"
+    },
+    {
+      "id": 14,
+      "qty": 1,
+      "Title": "Secret Lemonade",
+      "Priza": 9,
+      "image": "https://png2.cleanpng.com/sh/ec6a0cdf7d0c9b506b55845791bb1a5b/L0KzQYm3UcI2N6l3fZH0aYP2gLBuTf9zaZ9sfZ9zdXnmdX7qjBNsfJJuhJ97dX2wcbBrTfNwc5Yye9H1YT3pgsbwlL1rfZpofZ9qbnSwcrb9hgJib5YyeAd5cz3rdH73ifN1faNqRd9qdHX1ebLzTcViPpI2TqdvNnHpQ7O8TsQ2OGEAT6Q5MUW0Roq3Uck5O2U4UKM3cH7q/kisspng-orange-juice-cocktail-rum-and-coke-cola-fruit-juice-and-beverage-cups-hd-picture-material-5a6a165f6af3b5.4500972015169019834381.png",
+      "Type": "drink"
+    },
+    {
+      "id": 15,
+      "qty": 1,
+      "Title": "Ice Tea",
+      "Priza": 11,
+      "image": "https://img.freepik.com/free-photo/fresh-ice-tea-plastic-glass_144627-27132.jpg?w=740&t=st=1703699057~exp=1703699657~hmac=83023351c5c493f383a2c4b2b938beb6d73f4d45c799a298235911f4a1fc94af",
+      "Type": "drink"
+    },
+    {
+      "id": 16,
+      "qty": 1,
+      "Title": "Mahito Blue",
+      "Priza": 13,
+      "image": "https://img.freepik.com/free-photo/cocktail_144627-7402.jpg?w=740&t=st=1703699062~exp=1703699662~hmac=efe7ba35432d0821cdd4eb61bd2117077d375a7a22094b4bb2215b22ec2a2060",
+      "Type": "drink"
+    },
+    {
+      "id": 17,
+      "qty": 1,
+      "Title": "Fruits Cocktail",
+      "Priza": 7,
+      "image": "https://img.freepik.com/premium-photo/sex-beach-cocktail-glass-white_123827-8967.jpg?w=740",
+      "Type": "drink"
+    },
+    {
+      "id": 18,
+      "qty": 1,
+      "Title": "checken burger",
+      "Priza": 29,
+      "image": "https://img.freepik.com/premium-photo/big-double-cheddar-cheeseburger-with-chicken-cutlet_147620-1306.jpg?w=996",
+      "Type": "burger"
+    },
+    {
+      "Title": "new one",
+      "Type": "beer",
+      "Priza": "20",
+      "qty": 1,
+      "image": "https://img.freepik.com/free-photo/tasty-burger-isolated-white-background-fresh-hamburger-fastfood-with-beef-cheese_90220-1063.jpg?w=826&t=st=1703704276~exp=1703704876~hmac=71b8e36a1650ecce9ae5aa7fd6805135e472495203fdfd6d92f975882b96f8dd",
+      "id": "YLrSQWV"
+    }
+  ]
+}
